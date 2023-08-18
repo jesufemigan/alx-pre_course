@@ -1,1 +1,1 @@
-This is a new directory
+This is a directory for Alx git task
